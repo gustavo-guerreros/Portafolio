@@ -26,7 +26,7 @@ Soy un apasionado analista de datos con experiencia en exploración, análisis y
 ## Cómo contactarme
 
 - Correo electrónico: guerrerosgustavo1@gmail.com
-- LinkedIn:gustavo-guerreros-jacobe (https://www.linkedin.com/in/gustavo-guerreros-jacobe/)
+- LinkedIn: gustavo-guerreros-jacobe (https://www.linkedin.com/in/gustavo-guerreros-jacobe/)
 
 
 ¡Gracias por visitar mi GitHub!
